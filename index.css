@@ -132,7 +132,7 @@ input[type=image]:active {
   position: absolute;
   width: 200px;
   height: 200px;
-  background-image: url(../cookie-clicker-main/Images/cookie.png);
+  background-image: url(../Images/cookie.png);
   background-size: contain;
   background-repeat: no-repeat;
   pointer-events: none;
